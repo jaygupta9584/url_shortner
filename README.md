@@ -25,7 +25,7 @@ A simple URL shortener service built with Laravel.
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/laravel-url-shortener.git
+git clone https://github.com/jaygupta9584/url_shortner
 cd laravel-url-shortener
 
 # .env
